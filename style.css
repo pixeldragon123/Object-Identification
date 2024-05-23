@@ -1,0 +1,39 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    
+}
+a{
+    width: 100px;
+    border-color: cornflowerblue;
+    border-width: 5px;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: beige;
+    font-size: 50px;
+    padding: 20px;
+    
+}
+a:hover{
+    color: red;
+    border-right: dotted;
+    border-style: solid;
+}
+#back{
+    float: right;
+}
